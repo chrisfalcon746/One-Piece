@@ -55,3 +55,18 @@ button {
 button:hover {
   background-color: rgba(0, 136, 169, 0.8);
 }
+
+.section1 {
+  color: white;
+}
+
+.section1 .crewPic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.section1 .crew {
+  margin-top: 30px;
+}
