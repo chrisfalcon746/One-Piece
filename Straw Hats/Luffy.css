@@ -55,18 +55,3 @@ button {
 button:hover {
   background-color: rgba(0, 136, 169, 0.8);
 }
-
-.section1 {
-  color: white;
-}
-
-.section1 .crewPic {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 30vh;
-}
-
-.section1 .crew {
-  margin-top: 30px;
-}
